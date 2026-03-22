@@ -1,4 +1,4 @@
-public class HashMap {
+public class HashMap<I extends Number, I1 extends Number> {
     public static void main(String args[]){
         String t="egg";
 
